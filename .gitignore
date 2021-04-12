@@ -1,0 +1,15 @@
+pre_models/
+data/training_data/
+__pycache__
+
+progress.txt
+pdf_samples/
+.idea
+src/pre_models/
+.DS_Store
+__pycache__/
+log/
+.ipynb_checkpoints
+__pycache__
+build/
+*.so
